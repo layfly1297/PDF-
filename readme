@@ -1,0 +1,15 @@
+1、生成pdf 可以使用开源得 ：
+ itextsharp（使用得人多）      ，PdfFileWriter_src和PDFsharp （不支持中文） 、itext7-dotnet-develop（有授权约束）
+ 
+ 可以自己根据pdf 协议规则进行解析 生成pdf,一步一步实现不是很难 主要是内容有点多
+ 扩展开发内容 EMF(矢量图)转换PDF 
+ 
+ PDF 解析：
+ 
+ 2、阅读PDF 组件如下：
+    Pdfium 、libmupdf
+    
+    扩展内容：
+    
+ 3、可在网上查找dev开源代码 进行查找pdf得操作处理 
+    
